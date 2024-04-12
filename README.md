@@ -1,7 +1,7 @@
 # iestorredelrey
 Esta es la lista de mis alumnos:
 
--Juan Francisco Marquez Arias 
+- Juan Francisco Marquez Arias 
 - Gonzalo Gamero Soto
 - Joel Chicano López 
 - Álvaro Moyano Vila
