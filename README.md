@@ -1,7 +1,8 @@
 # iestorredelrey
 Esta es la lista de mis alumnos:
--Miguel Sanchez Maraver 
--Abraham lopez sierra 
+- José Miguel Vargas Fraile
+- Miguel Sanchez Maraver 
+- Abraham lopez sierra 
 -
 -
 -
